@@ -1,18 +1,13 @@
-### Hi there 👋
+### Hola, I'm Hasibul Hasan! 👋
 
-<!--
-**Hasibul-99/Hasibul-99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on MARN Stack
+- 🌱 I’m currently learning Flutter
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🤔 I’m looking for help with Laravel
+- 💬 Ask me about any javaScript framework or library
+- 📫 How to reach me: facebook - hasibulhasan.tushar.9
+- 😄 Pronouns: He/His
+- ⚡ Fun fact: Coding with listening stories from sunday suspense
 -->
 
 <img src="https://github-readme-stats.vercel.app/api?username=hasibul-99&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/>
