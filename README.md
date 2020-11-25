@@ -14,9 +14,12 @@
 <a href="https://github.com/Hasibul-99">
   <img align="left" alt="Hasibul's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
+<!----
 <a href="https://t.me/imthepk">
   <img align="left" alt="Pawan's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
+--->
+
 <a href="https://www.instagram.com/hasibul_hasan_tushar/">
   <img align="left" alt="Hasibul's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
@@ -38,9 +41,10 @@
 - 📫 How to reach me: facebook - hasibulhasan.tushar.9
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Coding with listening stories from sunday suspense
--->
 
-[![Linkedin: hasibul-hasan-tushar](https://img.shields.io/badge/-Hasibul-Hasan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hasibul-hasan-tushar/)](https://www.linkedin.com/in/hasibul-hasan-tushar/)
+<!--
+[![Linkedin: hasibul-hasan-tushar](https://img.shields.io/badge/-Hasibul-Hasan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hasibul-hasan-tushar/)](https://www.linkedin.com/in/hasibul-hasan-tushar/) 
+--->
 [![GitHub hasibul-99](https://img.shields.io/github/followers/hasibul-99?label=follow&style=social)](https://github.com/hasibul-99)
 
 <!---[![website](https://img.shields.io/badge/PortfolioWebsite-pawan.live-2648ff?style=flat-square&logo=google-chrome)](https://github.com/hasibul-99/)-->
