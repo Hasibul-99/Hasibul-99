@@ -40,8 +40,8 @@
 - ⚡ Fun fact: Coding with listening stories from sunday suspense
 -->
 
-[![Linkedin: hasibul-hasan-tushar](https://img.shields.io/badge/-imthepk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hasibul-hasan-tushar/)](https://www.linkedin.com/in/hasibul-hasan-tushar/)
-[![GitHub hasibul-99](https://img.shields.io/github/followers/iampawan?label=follow&style=social)](https://github.com/hasibul-99)
+[![Linkedin: hasibul-hasan-tushar](https://img.shields.io/badge/-Hasibul-Hasan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hasibul-hasan-tushar/)](https://www.linkedin.com/in/hasibul-hasan-tushar/)
+[![GitHub hasibul-99](https://img.shields.io/github/followers/hasibul-99?label=follow&style=social)](https://github.com/hasibul-99)
 
 <!---[![website](https://img.shields.io/badge/PortfolioWebsite-pawan.live-2648ff?style=flat-square&logo=google-chrome)](https://github.com/hasibul-99/)-->
 
