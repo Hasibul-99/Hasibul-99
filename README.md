@@ -72,9 +72,11 @@
 <!-- <a href="https://github.com/hasibul-99">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hasibul-99&show_icons=true&theme=light&line_height=27" alt="hasibul's github stats"/>
 </a> -->
-<a target="_blank" rel="noopener noreferrer" href="https://github.com/hasibul-99/hasibul-99/raw/output/github-contribution-grid-snake.svg">
-  <img src="https://github.com/hasibul-99/hasibul-99/raw/output/github-contribution-grid-snake.svg" alt="snake" style="max-width: 100%;">
-</a>
+<p dir="auto">
+  <a target="_blank" rel="noopener noreferrer" href="https://github.com/hasibul-99/hasibul-99/raw/output/github-contribution-grid-snake.svg">
+    <img src="https://github.com/hasibul-99/hasibul-99/raw/output/github-contribution-grid-snake.svg" alt="snake" style="max-width: 100%;">
+  </a>
+</p>
 
 <!--
 <a href="https://github.com/iampawan/FlutterExampleApps">
